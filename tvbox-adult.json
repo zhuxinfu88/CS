@@ -102,16 +102,6 @@
       "detail": "https://lbapi9.com"
     },
     {
-      "key": "Naixxzy.com",
-      "name": "🔞奶香资源",
-      "api": "https://Naixxzy.com/api.php/provide/vod",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "detail": "https://Naixxzy.com"
-    },
-    {
       "key": "slapibf.com",
       "name": "🔞森林资源",
       "api": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -120,16 +110,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "detail": "https://slapibf.com"
-    },
-    {
-      "key": "apilj.com",
-      "name": "🔞辣椒资源",
-      "api": "https://apilj.com/api.php/provide/vod",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "detail": "https://apilj.com"
     },
     {
       "key": "shayuapi.com",
